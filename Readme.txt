@@ -1,3 +1,8 @@
+—————————————————————————————————————————————————————————————————————————————
+
+
 1) Work on getting the depth information from OpenGL synthetic objects
-2) Use both pictorial and depth information to generate output that PCL understands
+   - Each Pixel has its own depth value
+2) Use both pictorial and depth informations to generate PCL compatible data
+   - Pictorial + Done
 3) Reconstruction methods under various FOV scenarios
