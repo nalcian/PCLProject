@@ -6,4 +6,3 @@
 2) Use both pictorial and depth informations to generate PCL compatible data
    - Pictorial + Done
 3) Reconstruction methods under various FOV scenarios
-4) Call girlfriend
