@@ -1,5 +1,5 @@
 —————————————————————————————————————————————————————————————————————————————
-OpenGL & PCL Reconstruction			    
+OpenGL & PCL Reconstruction
 —————————————————————————————————————————————————————————————————————————————
 1) Work on getting the depth information from OpenGL synthetic objects
    - Each Pixel has its own depth value
