@@ -21,7 +21,7 @@ void display();
 const char programTitle[] = "3D OpenGL & PCL Reconstruction";
 const int screenWidth = 640;
 const int screenHeight = 480;
-const int fontHeight = 14;
+const int fontHeight = 20;
 const int refreshMills     = 10;    // refresh interval in milliseconds
 const GLfloat yPos  = 0.0f;
 const GLfloat r  = 15.0f;
