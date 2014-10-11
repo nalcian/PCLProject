@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wl,-search_paths_first -Wl,-headerpad_max_install_names    CMakeFiles/OGL_out.dir/src/oglTest.cpp.o  -o OGL_out  -framework AGL -framework OpenGL -framework GLUT -framework Cocoa 

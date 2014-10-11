@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alicannalci/Documents/PCLProject/src/oglTest.cpp
+OpenGL/gl.h
+-
+GLUT/glut.h
+-
+math.h
+-
+iostream
+-
+sstream
+-
+iomanip
+-
+cstdlib
+-
+cstring
+-
+
